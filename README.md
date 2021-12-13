@@ -1,2 +1,2 @@
 # Metaverse
-Analisi metaversi (terre Decentraland ecc. ecc.)
+Analisi metaversi (terre Decentraland ecc.)
